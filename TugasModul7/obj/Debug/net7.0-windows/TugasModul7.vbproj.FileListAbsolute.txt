@@ -1,0 +1,39 @@
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.exe
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.deps.json
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.runtimeconfig.json
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.dll
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TempConv.dll
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\bin\Debug\net7.0-windows\TempConv.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.Form1.resources
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.AssemblyInfo.vb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.CopyComplete
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.dll
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\refint\TugasModul7.dll
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.genruntimeconfig.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 7\Projek\TugasModul7\TugasModul7\obj\Debug\net7.0-windows\ref\TugasModul7.dll
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.exe
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.deps.json
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.runtimeconfig.json
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.dll
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TugasModul7.pdb
+D:\tugas-mod8-rplbk-main\TugasModul7\bin\Debug\net7.0-windows\TempConv.dll
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.AssemblyReference.cache
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.Form1.resources
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.GenerateResource.cache
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.AssemblyInfoInputs.cache
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.AssemblyInfo.vb
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.CoreCompileInputs.cache
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.vbproj.CopyComplete
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.dll
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\refint\TugasModul7.dll
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.pdb
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\TugasModul7.genruntimeconfig.cache
+D:\tugas-mod8-rplbk-main\TugasModul7\obj\Debug\net7.0-windows\ref\TugasModul7.dll
